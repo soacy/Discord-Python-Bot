@@ -6,8 +6,12 @@
   </p>
 </div>
 
-  Discord.py was used to make this bot.
- https://discordpy.readthedocs.io/en/stable/#
+  <p align="center">
+    Discord.py was used to make this bot.\n
+    https://discordpy.readthedocs.io/en/stable/#
+    <br />
+  </p>
+</div>
 
 ## What is included in the file
 - Slash commands (normal discord / commands)
