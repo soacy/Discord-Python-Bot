@@ -7,7 +7,7 @@
 </div>
 
   <p align="center">
-    Discord.py was used to make this bot.\n
+    Discord.py was used to make this bot.
     https://discordpy.readthedocs.io/en/stable/#
     <br />
   </p>
