@@ -1,2 +1,14 @@
-# Discord-Python-Bot
-A simple discord bot made in python
+<h3 align="center">Discord Python Bot</h3>
+
+  <p align="center">
+    Just a simple discord bot made in python.
+    Discord.py was used to make this bot.
+    https://discordpy.readthedocs.io/en/stable/#
+    <br />
+  </p>
+</div>
+
+## What is included in the file
+- Slash commands (normal discord / commands)
+- Custom commands (! type commands)
+- If a member leaves / joins, it will send a embed
