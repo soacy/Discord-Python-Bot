@@ -2,11 +2,12 @@
 
   <p align="center">
     Just a simple discord bot made in python.
-    Discord.py was used to make this bot.
-    https://discordpy.readthedocs.io/en/stable/#
     <br />
   </p>
 </div>
+
+  Discord.py was used to make this bot.
+ https://discordpy.readthedocs.io/en/stable/#
 
 ## What is included in the file
 - Slash commands (normal discord / commands)
